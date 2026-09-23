@@ -28,7 +28,6 @@ It provides real-time weather information, forecasts, weather-based backgrounds,
 - 🌫️ Air quality information
 - 🌅 Sunrise and sunset
 - 🏃 Outdoor activity suggestions
-- 🌙 Dark / Light mode
 - 📱 Fully responsive design
 - ❌ Invalid city error handling
 
